@@ -257,13 +257,13 @@ body {
       transition: transform 1s, opacity 1s;
 
       &--first {
-        background-image: $light-blue-gradient, url("/img/boat-small.jpg");
+        background-image: $light-blue-gradient, url("../img/boat-small.jpg");
       }
       &--second {
-        background-image: $blue-gradient, url("/img/hawaii-small.jpg ");
+        background-image: $blue-gradient, url("../img/hawaii-small.jpg ");
       }
       &--third {
-        background-image: $purple-gradient, url("/img/water-small.jpg");
+        background-image: $purple-gradient, url("../img/water-small.jpg");
       }
 
       &-title {
